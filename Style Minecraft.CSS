@@ -1,0 +1,59 @@
+body{
+  text-align: center;
+  color:rgb(206, 105, 17);
+  background-color:aquamarine; 
+  margin: 0px auto;
+  padding: 100px;
+  height:100%;
+  font-size: 14px;
+  background-image:url(Image/Minecraft-Logo.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  cursor: url("https://ani.cursors-4u.net/cursors/images13/cur1156.gif"), auto;
+}
+h1{
+    font-size: 80px;
+    color:blueviolet;
+    border: 2px black dotted;
+    background-color: yellowgreen;
+    border-radius: 10px;
+}
+div{
+    margin-bottom: 40px;
+    font-family: verdana, cursive, serif;
+}
+.jeu{
+    text-align:center;
+}
+.annonce{
+    text-align:center;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    font-size:40px;
+    color: Red;
+}
+h3{
+    color:blueviolet;
+    font-size: 30px;
+}
+.description{
+    border:2px dashed black ;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+}
+ul{
+    border: 2px dashed black;
+    background-color: bisque;
+    font-size:20px;
+    border-radius: 10px;
+}
+.nom{
+    font-family: 'Great Vibes', cursive;
+    text-align: center;
+    font-size: 10px;
+}
